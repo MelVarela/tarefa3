@@ -8,7 +8,7 @@ Sigue estes pasos para configurar e executar o proxecto no teu contorno local.
 
 ```bash
 git clone https://github.com/MelVarela/tarefa3.git
-cd sales_sample
+cd tarefa3
 ```
 
 ---
@@ -41,4 +41,7 @@ Para lanzar o script principal situado na carpeta `src`:
 
 ```bash
 # Tarefa 1
-python src/tarefa3.py
+python src/tarefa3.py  
+```
+
+### 5. O Resultado móstrase por pantalla
